@@ -1345,3 +1345,7 @@ section {
   font-size: 13px;
   color: #fff;
 }
+
+.icon-box{
+  min-width: 100%;
+}
